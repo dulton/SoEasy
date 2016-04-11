@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="SoEasy">
+	<file>Resources/qt_zh_CN.qm</file>
+	<file>Resources/soeasy.png</file>
+	<file>Resources/soeasy.ico</file>
+	<file>Resources/soeasy.jpg</file>
+	<file>Resources/about.png</file>
+	<file>Resources/open_av.png</file>
+	<file>Resources/close_av.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,3 @@
+ffmpeg进行编解码
+opengl进行渲染
+openal进行音频播放
